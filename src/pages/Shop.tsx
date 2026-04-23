@@ -8,10 +8,10 @@ import shop3 from '../assets/images/gallery-3.jpg';
 import shop4 from '../assets/images/gallery-4.jpg';
 
 const mockShopItems = [
-  { id: 1, name: 'Hand-felted Nuno Silk Scarf', price: '£85.00', image: shop1 },
-  { id: 2, name: 'Organic Wool Felt Bowl', price: '£45.00', image: shop2 },
-  { id: 3, name: 'Textile Art Picture', price: '£120.00', image: shop3 },
-  { id: 4, name: 'Needle Felting Kit', price: '£25.00', image: shop4 },
+  { id: 1, name: 'Blue Scarf Starry Night Shawl Wrap', price: '£78.00', image: shop1 },
+  { id: 2, name: 'Felted Bowl Kit Starter Pack ', price: '£27.00', image: shop2 },
+  { id: 3, name: 'Blank Card Black Cat ', price: '£7.25', image: shop3 },
+  { id: 4, name: 'Wet Felt Making Kit Beginners Starter Pack', price: '£27.00', image: shop4 },
 ];
 
 export default function Shop() {
