@@ -22,7 +22,7 @@ export default function Contact() {
             transition={{ delay: 0.1 }}
             className="text-lg text-gray-500 font-medium leading-relaxed italic"
           >
-            Whether you have a question about a workshop, interested in a custom commission, or just want to say hello—I'd love to hear from you.
+            Whether you have a question about a workshop, interested in a custom commission, or just want to say hello, I'd love to hear from you.
           </motion.p>
         </header>
 
